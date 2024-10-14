@@ -6,6 +6,9 @@
   - Let's say you are deploying contract on Ethereum mainnet, then u need to have ETH gas fee on Ethereum Mainnet
 - You need a RPC URL of that EVM Chain
   - You can find your EVM chain RPC url on [Chainlist](https://chainlist.org)
+- Need to have terminal which support linux based command
+   - You can use either local terminal (Ubuntu)
+   - Or you can use Virtual IDE like [codespaces](https://github.com/codespaces)
  
 ## Unique Features
 - **Batch Deployment:** Supports deploying multiple token contracts with optional random prefixes for token names (If you want to deploy 5 tokens, then it will ask u the token name 1 time, and then automatically add random 2 prefixes at the before of the name)
